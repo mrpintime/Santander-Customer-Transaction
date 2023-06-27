@@ -4,11 +4,15 @@
 ## Short Description:  
 This is a kaggle competition that there In the challenge, we want to identify which customers will make a specific transaction in the future, irrespective of the amount of money transacted.
 
-Flow Chart:     
+# Flow Chart:
+**We create several notebooks because we use several sampling and we want to see how it works on the other hand we do not want to increase size of notebooks so we do that.**  
+
 1. Preprocessing Dataset.
 2. Exploratory Data Analysis
 3. Data preprocessing for predictive analysis
-   1. data sampling for imbalance dataset
+   1. Dimensionality Reduction
+      1. PCA , ...**(In future)**
+   2. data sampling for imbalance dataset
       1. Downsampling Technique
          1. Create model with downsample dataset
             - Base model (for estimate difference between downsample and original dataset)
@@ -18,9 +22,9 @@ Flow Chart:
             - Gradient Boosting
             - Stacking and Voting Classifier **(In future)**
          2. Conclusion
-      3. Upsampling Technique
+      2. Upsampling Technique
          **In future.**
-      4. Resampling Technique
+      3. Resampling Technique
          **In future.**
 
 ## Details  
