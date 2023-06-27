@@ -12,7 +12,7 @@ This is a kaggle competition that there In the challenge, we want to identify wh
 3. Data preprocessing for predictive analysis
    1. Dimensionality Reduction
       1. PCA , ...**(In future)**
-   2. data sampling for imbalance dataset
+   2. Data sampling for imbalance dataset
       1. Downsampling Technique
          1. Create model with downsample dataset
             - Base model (for estimate difference between downsample and original dataset)
