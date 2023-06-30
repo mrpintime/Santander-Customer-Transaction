@@ -23,9 +23,7 @@ This is a kaggle competition that there In the challenge, we want to identify wh
             - Gradient Boosting
             - Stacking and Voting Classifier **(In future)**
          2. Conclusion
-      2. Upsampling Technique
-         **In future.**
-      3. Resampling Technique
+      2. Resampling Technique
          **In future.**
 
 ## Details  
