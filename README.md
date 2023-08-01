@@ -2,7 +2,7 @@
 ![Kaggle-picture](https://github.com/mrpintime/Santander-Customer-Transaction/assets/120576828/f7e0a43b-b291-4935-b272-0bdaa5e9b6b5)
 
 ## Short Description:  
-This is a kaggle competition that there In the challenge, we want to identify which customers will make a specific transaction in the future, irrespective of the amount of money transacted.
+> This is a kaggle competition that there In the challenge, we want to identify which customers will make a specific transaction in the future, irrespective of the amount of money transacted.
 
 # Flow Chart:
 
@@ -30,4 +30,11 @@ This is a kaggle competition that there In the challenge, we want to identify wh
 **Metrics**: `ROC_AUC`, `F1Score`, `Recall`, `Precision`, `Visualuzation`, ...  
 **Libraries**: `Scikit-Learn`, `cuML`, `lightgbm`, `Mathplotlib`, `Seaborn`, `Pandas`, `Numpy`, ...  
 
-- Note: There are so many Notes and Tips in notebook i hope these will help you. 
+- Note: There are so many Notes and Tips in notebook i hope these will help you.
+
+
+---
+
+Note: **I appreciate you if i can have your opinion about the project 🍾.**  
+
+Send your opinions throughout [My site]('mrpintime.github.io/') :love_letter:
